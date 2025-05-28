@@ -1,0 +1,27 @@
+[
+    {
+        "name": "videoId",
+        "type": "STRING",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "title",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "publishedTimeText",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "viewCountText",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "lengthText",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }
+]
