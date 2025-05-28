@@ -59,8 +59,6 @@ youtube_analytics_project/yes
 - **YouTube Data API**
 - **Google Cloud Storage** _(simulated)_
 - **BigQuery** _(simulated)_
-- **Apache Airflow** _(simulated)_
-- **Jupyter Notebook** _(optional)_
 
 ---
 
@@ -72,5 +70,5 @@ While actual GCP access is not enabled, the entire cloud part is designed and st
 
 ## 👨‍💼 Author
 
-- **Your Name**
-- [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)
+- **Mohammad Sohail Shekh**
+- [LinkedIn](www.linkedin.com/in/mohammad-sohail-shekh-b9218a18a)
